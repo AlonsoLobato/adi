@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adi/static/css/main.92ba516b.chunk.css",
+    "main.js": "/adi/static/js/main.0b70592f.chunk.js",
+    "main.js.map": "/adi/static/js/main.0b70592f.chunk.js.map",
+    "runtime-main.js": "/adi/static/js/runtime-main.4da0d435.js",
+    "runtime-main.js.map": "/adi/static/js/runtime-main.4da0d435.js.map",
+    "static/js/2.b97ec1b2.chunk.js": "/adi/static/js/2.b97ec1b2.chunk.js",
+    "static/js/2.b97ec1b2.chunk.js.map": "/adi/static/js/2.b97ec1b2.chunk.js.map",
+    "index.html": "/adi/index.html",
+    "precache-manifest.e246cbbba1944e909cd4aa11a0478614.js": "/adi/precache-manifest.e246cbbba1944e909cd4aa11a0478614.js",
+    "service-worker.js": "/adi/service-worker.js",
+    "static/css/main.92ba516b.chunk.css.map": "/adi/static/css/main.92ba516b.chunk.css.map",
+    "static/js/2.b97ec1b2.chunk.js.LICENSE.txt": "/adi/static/js/2.b97ec1b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da0d435.js",
+    "static/js/2.b97ec1b2.chunk.js",
+    "static/css/main.92ba516b.chunk.css",
+    "static/js/main.0b70592f.chunk.js"
+  ]
+}
