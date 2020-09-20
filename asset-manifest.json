@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/adi/static/css/main.92ba516b.chunk.css",
-    "main.js": "/adi/static/js/main.767bde85.chunk.js",
-    "main.js.map": "/adi/static/js/main.767bde85.chunk.js.map",
+    "main.js": "/adi/static/js/main.6f0d0b8e.chunk.js",
+    "main.js.map": "/adi/static/js/main.6f0d0b8e.chunk.js.map",
     "runtime-main.js": "/adi/static/js/runtime-main.4da0d435.js",
     "runtime-main.js.map": "/adi/static/js/runtime-main.4da0d435.js.map",
     "static/js/2.b97ec1b2.chunk.js": "/adi/static/js/2.b97ec1b2.chunk.js",
     "static/js/2.b97ec1b2.chunk.js.map": "/adi/static/js/2.b97ec1b2.chunk.js.map",
     "index.html": "/adi/index.html",
-    "precache-manifest.c7b691768defaed64dab6ca49e467bd5.js": "/adi/precache-manifest.c7b691768defaed64dab6ca49e467bd5.js",
+    "precache-manifest.efe96553d2dfa80616f8c18d27b866aa.js": "/adi/precache-manifest.efe96553d2dfa80616f8c18d27b866aa.js",
     "service-worker.js": "/adi/service-worker.js",
     "static/css/main.92ba516b.chunk.css.map": "/adi/static/css/main.92ba516b.chunk.css.map",
     "static/js/2.b97ec1b2.chunk.js.LICENSE.txt": "/adi/static/js/2.b97ec1b2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4da0d435.js",
     "static/js/2.b97ec1b2.chunk.js",
     "static/css/main.92ba516b.chunk.css",
-    "static/js/main.767bde85.chunk.js"
+    "static/js/main.6f0d0b8e.chunk.js"
   ]
 }
